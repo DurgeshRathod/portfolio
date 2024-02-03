@@ -10,7 +10,7 @@ Lead Software Engineer with a passion for crafting clean code and innovative sol
 ## 🚀 Certification
 
 - Red Hat Certified Engineer
-- Generative AI with Large Language Models (In Progress)
+- Generative AI with Large Language Models 
 
 ## 💡 Skills
 
